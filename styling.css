@@ -5,11 +5,17 @@ body{
     background-color: #474747;    
 }
 
+.clear{clear: both;}
+
 #MainArea{
     width: 80%;
     max-width: 1200px;
     padding: 0% 10%;
     padding-bottom: 5%;
+}
+
+#topBar{
+    position: sticky;
 }
 
 h1{
@@ -19,6 +25,20 @@ h1{
 h2{
     font-size: 2em;
     margin-top: -1.8em;
+}
+
+#profilePicture{
+    float: right;
+    width: 20%;
+}
+
+#socialLinks{
+    
+}
+
+ul{
+    list-style-type: none;
+    color: #F95738;
 }
 
 h3{
@@ -35,8 +55,4 @@ ul{
 p{
     color: FFFCF2;
     line-height: 1.4em;
-}
-
-#MacBookAirM1PNG{
-
 }
