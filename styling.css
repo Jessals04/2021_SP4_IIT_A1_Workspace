@@ -1,1 +1,21 @@
-/* Restart */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+h1{
+    font-size: 3.5em;
+}
+
+h2{
+    font-size: 2em;
+}
+
+h3{
+    font-size: 1.5em;
+}
+
+ul{
+    font-size: -0.5em;
+    
+}
