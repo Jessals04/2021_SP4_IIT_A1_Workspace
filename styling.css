@@ -15,7 +15,8 @@ body{
 }
 
 #topBar{
-    position: sticky;
+    width: 100%;
+    height: 10%;
 }
 
 h1{
@@ -56,3 +57,17 @@ p{
     color: FFFCF2;
     line-height: 1.4em;
 }
+
+.fRight{
+    float: right;
+    padding-top: 100px;
+    margin-right: 0%;
+    width: 40%;
+}
+
+.fLeft{
+    width: 40%;
+    max-width: 300px;
+}
+
+/* [] Fix image widths. The fRight images are not conforming to width: 40%; */
