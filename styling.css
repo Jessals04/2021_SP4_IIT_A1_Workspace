@@ -44,6 +44,14 @@ a{
     color: #f95738;
 }
 
+.link:hover{
+    color: fffcf2;
+}
+
+.link:hover{
+    color: #fffcf2;
+}
+
 h3{
     font-size: 1.5em;
     border-bottom: 2px solid #CF5C36;
