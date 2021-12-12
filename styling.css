@@ -85,6 +85,10 @@ p{
     padding-bottom: 20px;
 }
 
+.PDF{
+    width: 100%;
+}
+
 #LinksToJobAdPDF{
     color: #ccc5b9;
     size: -2em;
