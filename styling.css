@@ -42,10 +42,7 @@ h2{
 
 a{
     color: #f95738;
-}
-
-.link:hover{
-    color: fffcf2;
+    text-decoration: none;
 }
 
 .link:hover{
