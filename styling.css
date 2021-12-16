@@ -60,6 +60,11 @@ ul{
     line-height: 1.4em;
 }
 
+ol{
+    font-size: -0.5em;
+    line-height: 1.4em;
+}
+
 p{
     color: FFFCF2;
     line-height: 1.4em;
